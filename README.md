@@ -7,5 +7,7 @@
 
 [神经网络Embedding的原理及作用](https://mp.weixin.qq.com/s/VjrYk5Sm0tc5L2TiWp0G6A)  
 
+[AI解微分方程，数学是这样一步步“沦陷”的](https://mp.weixin.qq.com/s/ERxn2gXicIs8izuN-1eARA)  
+
 
 
