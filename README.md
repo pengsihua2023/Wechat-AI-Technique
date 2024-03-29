@@ -11,6 +11,8 @@
 
 [必会的机器学习评估指标](https://mp.weixin.qq.com/s/d2R5KcKcvNRE7GMEEuI1ww)  
 
+[全世界 LoRA 训练脚本，联合起来!](https://mp.weixin.qq.com/s/EmKIfsYhlSFBzQ_k_Ut-Lg)  
+
 
 
 
