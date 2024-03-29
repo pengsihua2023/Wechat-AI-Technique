@@ -13,6 +13,8 @@
 
 [全世界 LoRA 训练脚本，联合起来!](https://mp.weixin.qq.com/s/EmKIfsYhlSFBzQ_k_Ut-Lg)  
 
+[机器学习必会的正则化技术](https://mp.weixin.qq.com/s/wIXjvdKLsP6JdRIS-2gj4A)  
+
 
 
 
