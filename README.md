@@ -15,6 +15,8 @@
 
 [机器学习必会的正则化技术](https://mp.weixin.qq.com/s/wIXjvdKLsP6JdRIS-2gj4A)  
 
+[斯坦福大学分析3.2万篇大模型HuggingFace文档后指出：现状堪忧！](https://mp.weixin.qq.com/s/GUtn7wJlbpS0gSOF7Opi4g)  
+
 
 
 
