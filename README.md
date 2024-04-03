@@ -21,6 +21,12 @@
 
 [结合Transformer与Mamba，Jamba来了！](https://mp.weixin.qq.com/s/khQM5zflzcaaSlFuahLItQ)  
 
+[这次终于能把Transformer搞懂了，包含概念和代码基础知识！](https://mp.weixin.qq.com/s/rBucLnif7E_TJr6gpnOwxQ)  
+
+[深度学习损失函数新成果！18个突破性方法，让模型更精准、更高效](https://mp.weixin.qq.com/s/EhO26cT1RsXH0Q5gRL_-fA)  
+
+[终于有人总结了图神经网络！](https://mp.weixin.qq.com/s/iybgUwJ0V00IrdLv1US1yA)  
+
 
 
 
