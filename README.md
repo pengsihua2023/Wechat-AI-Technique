@@ -19,6 +19,10 @@
 
 [联合国际顶尖高校 昆仑万维开源数字智能体研发工具包AgentStudio](https://mp.weixin.qq.com/s/a3dOaTDSD5f2zedU_jDVKQ)  
 
+[结合Transformer与Mamba，Jamba来了！](https://mp.weixin.qq.com/s/khQM5zflzcaaSlFuahLItQ)  
+
+
+
 
 
 
